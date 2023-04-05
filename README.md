@@ -48,7 +48,7 @@ I then used HeidiSQL to create a session. Next, I created a database called osTi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DNl3MXC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lastly, I finished creating the osTicket enviornment by connecting osTicket to the database I made in Heidi SQL.
