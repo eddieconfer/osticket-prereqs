@@ -40,7 +40,7 @@ I installed OsTicket on a Windows 10 virtual machine I created in Microsoft Azur
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OVTL0af.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 I then used HeidiSQL to create a session. Next, I created a database called osTicket.
