@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6UB9URN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 I installed OsTicket on a Windows 10 virtual machine I created in Microsoft Azure. I then enabled (php_imap.dll); (php_intl.dll); and (php_opcache.dll).
